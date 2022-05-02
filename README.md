@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋
+I'm a Front End Developer at VMware working on Spring Data Flow, Spring.io and more at VMWare!
 
 <!--
 **claudiahub/claudiahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
